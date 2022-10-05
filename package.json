@@ -1,7 +1,7 @@
 {
   "name": "ejemplo-api-rest",
   "version": "1.0.0",
-  "description": "Ejemplo basico de API Rest",
+  "description": "Ejemplo basico de una API Rest",
   "main": "app.js",
   "type": "module",
   "scripts": {

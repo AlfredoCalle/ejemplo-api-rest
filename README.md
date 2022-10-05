@@ -1,3 +1,8 @@
 # Ejemplo API Rest
 
-Ejemplo sencillo de una Api Rest
+Ejemplo básico de una Api Rest.
+
+## Instalar Dependencias
+~~~~
+npm install
+~~~~
